@@ -20,7 +20,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import postgres from "./tech/postgres.png";
+import java from "./tech/java.png";
+import python from "./tech/python.png";
+import cpp from "./tech/c++.png";
+import gcp from "./tech/gcp.png";
 
+import qdrant from "./company/qdrant.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -30,6 +36,13 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import niit from "./education/niit.jpeg"
+import scholarsHome from "./education/scholarsHome.png"
+import ddha from "./education/ddha.jpeg"
+
+import toDoList from "./toDoList.png";
+import chatApp from "./chatApp.png";
+import exerciseTracker from "./exerciseTracker.png";
 export {
   logo,
   backend,
@@ -48,6 +61,7 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  postgres,
   redux,
   tailwind,
   typescript,
@@ -56,7 +70,16 @@ export {
   shopify,
   starbucks,
   tesla,
+  qdrant,
   carrent,
   jobit,
   tripguide,
+  niit,scholarsHome,ddha,
+  toDoList,
+  chatApp,
+  exerciseTracker,
+  java,
+  python,
+  cpp,
+  gcp
 };
