@@ -1,29 +1,16 @@
 import {
     mobile,
     backend,
-    creator,
     web,
     javascript,
     postgres,
-    typescript,
-    html,
-    css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
     mongodb,
     git,
-    figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     qdrant,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
     niit,scholarsHome,ddha,
     toDoList,
@@ -63,21 +50,10 @@ import {
       title: "Data Science and NLP developer",
       icon: backend,
     },
-    // {
-    //   title: "Content Creator",
-    //   icon: creator,
-    // },
   ];
   
   const technologies = [
     {
-    //   name: "HTML 5",
-    //   icon: html,
-    // },
-    // {
-    //   name: "CSS 3",
-    //   icon: css,
-    // },
     name: "Java",
     icon: java,
     },
@@ -101,18 +77,10 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    // {
-    //   name: "TypeScript",
-    //   icon: typescript,
-    // },
     {
       name: "React JS",
       icon: reactjs,
     },
-    // {
-    //   name: "Redux Toolkit",
-    //   icon: redux,
-    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -129,10 +97,6 @@ import {
       name: "git",
       icon: git,
     },
-    // {
-    //   name: "figma",
-    //   icon: figma,
-    // },
     {
       name: "docker",
       icon: docker,
@@ -144,70 +108,18 @@ import {
   ];
   
   const experiences = [
-    // {
-    //   title: "React.js Developer",
-    //   company_name: "Starbucks",
-    //   icon: starbucks,
-    //   iconBg: "#383E56",
-    //   date: "March 2020 - April 2021",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
     {
       title: "Data Science and NLP developer",
       company_name: "Nirant Kasliwal",
       icon: qdrant,
       iconBg: "#383E56",
-      date: "June 2023 - Mid July 2023",
+      date: "June 2023 - July 2023",
       points: [
-        "Developing ipynb files demonstrating the uses of Qdrant vector db & vector similarity search engine.",
-        "Working with datasets and models from HuggingFace, LLms like ChatGPT, Falcon and langchain framework.",
-        "Topics include different type of question answering, langchain retrieval qa, video search, etc.",
+        "Developing Jupyter files demonstrating the use of Qdrant vector db & vector similarity search engine.",
+        "Working with datasets and models from HuggingFace, LLMs like ChatGPT, Falcon and LangChain framework.",
+        "Topics include different type of question answering, LangChain retrieval QA, video search, etc.",
       ],
     },
-    // {
-    //   title: "React Native Developer",
-    //   company_name: "Tesla",
-    //   icon: tesla,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2021 - Feb 2022",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Web Developer",
-    //   company_name: "Shopify",
-    //   icon: shopify,
-    //   iconBg: "#383E56",
-    //   date: "Jan 2022 - Jan 2023",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
   ];
   
   const testimonials = [
@@ -264,16 +176,12 @@ import {
         "Exercise logging project with React frontend, Node.js backend using Express and Mongoose. Frontend on Netlify, backend on Render, data managed via MongoDB Atlas.",
       tags: [
         {
-          name: "react",
+          name: "mern",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "render",
           color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
         },
       ],
       image: exerciseTracker,
@@ -292,10 +200,6 @@ import {
           name: "netlify",
           color: "green-text-gradient",
         },
-        // {
-        //   name: "css",
-        //   color: "pink-text-gradient",
-        // },
       ],
       image: toDoList,
       source_code_link: "https://github.com/kartikgupta321/todos-list",
