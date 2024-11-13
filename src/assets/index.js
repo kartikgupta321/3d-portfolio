@@ -20,7 +20,8 @@ import python from "./tech/python.png";
 import cpp from "./tech/c++.png";
 import gcp from "./tech/gcp.png";
 
-import qdrant from "./company/qdrant.png";
+import qdrant from "./company/Qdrant1.png";
+import genpact from "./company/genpact.png"
 
 import niit from "./education/niit.jpeg"
 import scholarsHome from "./education/scholarsHome.png"
@@ -47,6 +48,7 @@ export {
   tailwind,
   threejs,
   qdrant,
+  genpact,
   niit,
   scholarsHome,
   ddha,

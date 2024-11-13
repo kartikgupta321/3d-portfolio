@@ -11,6 +11,7 @@ import {
     git,
     docker,
     qdrant,
+    genpact,
     threejs,
     niit,scholarsHome,ddha,
     toDoList,
@@ -108,6 +109,18 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Data Science and NLP developer",
+      company_name: "Nirant Kasliwal",
+      icon: genpact,
+      iconBg: "#383E56",
+      date: "June 2023 - July 2023",
+      points: [
+        "Developing Jupyter files demonstrating the use of Qdrant vector db & vector similarity search engine.",
+        "Working with datasets and models from HuggingFace, LLMs like ChatGPT, Falcon and LangChain framework.",
+        "Topics include different type of question answering, LangChain retrieval QA, video search, etc.",
+      ],
+    },
     {
       title: "Data Science and NLP developer",
       company_name: "Nirant Kasliwal",
