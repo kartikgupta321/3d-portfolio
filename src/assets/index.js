@@ -19,6 +19,10 @@ import java from "./tech/java.png";
 import python from "./tech/python.png";
 import cpp from "./tech/c++.png";
 import gcp from "./tech/gcp.png";
+import aws from "./tech/aws.png";
+import azure from "./tech/azure.png"
+import angular from "./tech/angular.png"
+import fastapi from "./tech/fastapi.png"
 
 import qdrant from "./company/Qdrant1.png";
 import genpact from "./company/genpact.png"
@@ -30,6 +34,8 @@ import ddha from "./education/ddha.jpeg"
 import toDoList from "./toDoList.png";
 import chatApp from "./chatApp.png";
 import exerciseTracker from "./exerciseTracker.png";
+import amazonTracker from "./amazonTracker.png"
+
 export {
   logo,
   backend,
@@ -55,8 +61,14 @@ export {
   toDoList,
   chatApp,
   exerciseTracker,
+  amazonTracker,
+  
   java,
   python,
   cpp,
-  gcp
+  gcp,
+  aws,
+  azure,
+  angular,
+  fastapi
 };
